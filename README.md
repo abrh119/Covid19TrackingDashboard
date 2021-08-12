@@ -1,5 +1,4 @@
-# Covid-19 tracker app
-
+Preview: https://abs-covid-dashboard-app.netlify.app/
 
 ## Available Scripts
 
